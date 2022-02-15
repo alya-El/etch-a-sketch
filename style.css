@@ -9,8 +9,10 @@ body{
     display: grid;
     width: 600px;
     height: 600px;
-    border: 2px solid #FF33FF;
+    border: 7px solid #FF33FF;
+    border-radius: 10px;
     background-color: white;
+    box-shadow: 10px 10px black;
 }
 .grid-size{
     width: 180px;
